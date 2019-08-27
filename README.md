@@ -1,1 +1,1 @@
-# protractor-javascript
+# vidivue-automated-tests
