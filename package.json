@@ -10,7 +10,7 @@
     "build": "babel server --out-dir build --presets=es2015 && webpack"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "selenium-webdriver": "latest"
   },
   "devDependencies": {
