@@ -19,7 +19,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
     "jasmine": "^3.4.0",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.5.0",
     "protractor": "^5.4.2",
     "protractor-beautiful-reporter": "^1.2.9"
   },
